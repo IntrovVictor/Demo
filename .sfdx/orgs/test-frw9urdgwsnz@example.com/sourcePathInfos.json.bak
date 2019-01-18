@@ -1,0 +1,392 @@
+[
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547798188521,
+            "changeTime": 1547798188521,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547798188521,
+            "changeTime": 1547798188521,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1547798188530,
+            "changeTime": 1547798188530,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547798188521,
+            "changeTime": 1547798188521,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1041,
+            "modifiedTime": 1547798188521,
+            "changeTime": 1547798188521,
+            "contentHash": "4e1c555e89ee6ac79ef1d86818bb828285e458c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547798188523,
+            "changeTime": 1547798188523,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1547798188526,
+            "changeTime": 1547798188526,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1547798188523,
+            "changeTime": 1547798188523,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 191,
+            "modifiedTime": 1547798188524,
+            "changeTime": 1547798188524,
+            "contentHash": "975ce5bc48cc738af6af4f4135208d91af831161",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1547798188524,
+            "changeTime": 1547798188524,
+            "contentHash": "908257bc05e5ea58368667d2c873c9114321f516",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1547798188525,
+            "changeTime": 1547798188525,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1547798188525,
+            "changeTime": 1547798188525,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1547798188525,
+            "changeTime": 1547798188525,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/DemoController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1547798188526,
+            "changeTime": 1547798188526,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1547798188526,
+            "changeTime": 1547798188526,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1547798188527,
+            "changeTime": 1547798188527,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547798188527,
+            "changeTime": 1547798188527,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 697,
+            "modifiedTime": 1547798188527,
+            "changeTime": 1547798188527,
+            "contentHash": "18b25e21317d0870bcfa37943f98065da3924d20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1547798188529,
+            "changeTime": 1547798188529,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18155,
+            "modifiedTime": 1547798188528,
+            "changeTime": 1547798188528,
+            "contentHash": "f120b135ba78c5f28325c67ca5b5b2dd669273f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4619,
+            "modifiedTime": 1547798188529,
+            "changeTime": 1547798188529,
+            "contentHash": "4c36fb175aad23f2cf57c95453a1112717884027",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4619,
+            "modifiedTime": 1547798188529,
+            "changeTime": 1547798188529,
+            "contentHash": "4c36fb175aad23f2cf57c95453a1112717884027",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4957,
+            "modifiedTime": 1547798188530,
+            "changeTime": 1547798188530,
+            "contentHash": "a4cffd96187afc469d34092eff3f1cbfc74d63e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547798188530,
+            "changeTime": 1547798188530,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 303,
+            "modifiedTime": 1547798188530,
+            "changeTime": 1547798188530,
+            "contentHash": "99c4a8ec0ad4b7acb300a723ea1ed1061a6a0ed2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo",
+        {
+            "state": "u",
+            "sourcePath": "/Users/victorliu/heroku-101/afternoon-earth-61381/Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1547798188530,
+            "changeTime": 1547798188530,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
